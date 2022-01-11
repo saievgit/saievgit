@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Saiev Magomed
+- 👀 I’m interested in Java programming
+- 🌱 I’m currently learning Java
+- 📫 How to reach me saievmuhammad@mail.ru
