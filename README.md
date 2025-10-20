@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Saiev Magomed
 - 👀 I’m interested in Backend, Web, Linux
 - 🌱 I’m currently learning Java
-- 📫 E-mail - saievmuhammad@mail.ru
+- 📫 E-mail - devmaga@gmail.com
